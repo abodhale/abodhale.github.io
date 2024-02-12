@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+}
+body{
+    height:54em;
+    border: 30px;
+    margin:0em;
+    border-color: rgb(109, 109, 214);
+    border-style:solid;
+    background-color: rgb(255, 191, 0);
+}
+h2{
+    font-size: xx-large; 
+}
+p{
+    margin: 50px;
+    font-size: x-large;
+    color:white ;
+}
+
+
+
