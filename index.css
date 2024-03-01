@@ -7,7 +7,7 @@ body{
     margin:0em;
     border-color: rgb(109, 109, 214);
     border-style:solid;
-    background-color: rgb(255, 191, 0);
+    background:rgb(255, 191, 0);
 }
 h2{
     font-size: xx-large; 
